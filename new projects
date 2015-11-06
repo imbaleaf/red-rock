@@ -4,9 +4,9 @@ import com.jude.Manager;
 import com.jude.Prisoner;
 
 /**
- * Created by vqqs on 2015/11/6.
+ * Created by red on 2015/11/6.
  */
-public class AcePrisoner implements Prisoner {
+public class RobinPrisoner implements Prisoner {
     int totalCount;
     int totalPerson;
 
