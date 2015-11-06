@@ -4,7 +4,7 @@ import com.jude.Manager;
 import com.jude.Prisoner;
 
 /**
- * Created by vqqs on 2015/10/31.
+ * Created by vqqs on 2015/11/6.
  */
 public class AcePrisoner implements Prisoner {
     int totalCount;
@@ -12,7 +12,7 @@ public class AcePrisoner implements Prisoner {
 
     @Override
     public String getName() {
-        return "郑昱旋2015211876";
+        return "叶舟洋2015214742";
     }
 
     @Override
